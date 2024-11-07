@@ -1,0 +1,68 @@
+2024-11-07 00:29:22 INFO  TC_003_WellnessCare:33 -
+			-----Creating Driver-------
+2024-11-07 00:29:26 INFO  TC_003_WellnessCare:45 -
+			-------Opening URL----------
+2024-11-07 00:29:28 INFO  TC_003_WellnessCare:21 -
+			********* Test case 7 started *********
+2024-11-07 00:29:29 INFO  TC_003_WellnessCare:31 -
+			********* Test case 7 Ended *********
+2024-11-07 00:41:24 INFO  TC_001_NearBy_Hospital:33 -
+			-----Creating Driver-------
+2024-11-07 00:41:28 INFO  TC_001_NearBy_Hospital:45 -
+			-------Opening URL----------
+2024-11-07 00:41:30 INFO  TC_001_NearBy_Hospital:23 -
+			********Starting Test Case 1 ***********
+2024-11-07 00:41:30 INFO  TC_001_NearBy_Hospital:26 -
+			****Test case 1 Ended ********
+2024-11-07 00:41:30 INFO  TC_001_NearBy_Hospital:31 -
+			********* Test Case 2 Started *********
+2024-11-07 00:41:34 INFO  TC_001_NearBy_Hospital:34 -
+			****Test case 2 Ended ********
+2024-11-07 00:41:34 INFO  TC_001_NearBy_Hospital:39 -
+			********* Test Case 3 Started *********
+2024-11-07 00:41:34 INFO  TC_001_NearBy_Hospital:45 -
+			****Test case 3 Ended ********
+2024-11-07 00:41:34 INFO  TC_001_NearBy_Hospital:50 -
+			*************Test case 4 starting************
+2024-11-07 00:42:07 INFO  TC_001_NearBy_Hospital:54 -
+			********* Hospetial List obtained *********
+2024-11-07 00:42:07 INFO  TC_001_NearBy_Hospital:55 -
+			**********Test Case 4 Ended*************
+2024-11-07 00:42:07 INFO  TC_001_NearBy_Hospital:16 -
+			********* Test case 5 started *********
+2024-11-07 00:42:08 INFO  TC_001_NearBy_Hospital:22 -
+			********* Test case 5 Ended *********
+2024-11-07 00:42:08 INFO  TC_001_NearBy_Hospital:28 -
+			********* Test case 6 started *********
+2024-11-07 00:42:11 INFO  TC_001_NearBy_Hospital:34 -
+			********* Test case 6 Ended *********
+2024-11-07 00:42:11 INFO  TC_001_NearBy_Hospital:21 -
+			********* Test case 7 started *********
+2024-11-07 00:42:12 INFO  TC_001_NearBy_Hospital:31 -
+			********* Test case 7 Ended *********
+2024-11-07 00:42:51 INFO  DriverSetup:40 -
+			-----Cucumber-Creating Driver-------
+2024-11-07 00:42:57 INFO  DriverSetup:52 -
+			-------Cucumber-Opening URL----------
+2024-11-07 00:48:24 INFO  TC_002_GetDiagnosticsCenterCityName:33 -
+			-----Creating Driver-------
+2024-11-07 00:48:28 INFO  TC_002_GetDiagnosticsCenterCityName:45 -
+			-------Opening URL----------
+2024-11-07 00:48:31 INFO  TC_002_GetDiagnosticsCenterCityName:16 -
+			********* Test case 5 started *********
+2024-11-07 00:48:32 INFO  TC_002_GetDiagnosticsCenterCityName:22 -
+			********* Test case 5 Ended *********
+2024-11-07 00:48:32 INFO  TC_002_GetDiagnosticsCenterCityName:28 -
+			********* Test case 6 started *********
+2024-11-07 00:50:02 INFO  TC_002_GetDiagnosticsCenterCityName:33 -
+			-----Creating Driver-------
+2024-11-07 00:50:06 INFO  TC_002_GetDiagnosticsCenterCityName:45 -
+			-------Opening URL----------
+2024-11-07 00:50:08 INFO  TC_002_GetDiagnosticsCenterCityName:16 -
+			********* Test case 5 started *********
+2024-11-07 00:50:09 INFO  TC_002_GetDiagnosticsCenterCityName:22 -
+			********* Test case 5 Ended *********
+2024-11-07 00:50:09 INFO  TC_002_GetDiagnosticsCenterCityName:28 -
+			********* Test case 6 started *********
+2024-11-07 00:50:13 INFO  TC_002_GetDiagnosticsCenterCityName:35 -
+			********* Test case 6 Ended *********
